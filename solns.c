@@ -1,4 +1,3 @@
-/* Enter your solutions in this file */
 #include <stdio.h>
 /max function/
 int max(int a[],int n)
